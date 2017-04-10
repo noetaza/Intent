@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Primera Pantalla</string>
+    <string name="seg_actividad">Segunda Pantalla</string>
+</resources>
